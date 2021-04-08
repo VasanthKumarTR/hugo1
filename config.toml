@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My TechToc Demo Site from GitHub Source 1"
+title = "My TechToc Demo Site from GitHub Source"
 theme = "ananke"
