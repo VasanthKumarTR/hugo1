@@ -1,6 +1,0 @@
----
-title: "My First Post"
-date: 2021-04-07T18:43:16+05:30
-draft: true
----
-
